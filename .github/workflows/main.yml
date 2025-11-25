@@ -62,8 +62,8 @@ jobs:
         run: |
           Write-Host "`n=== RDP ACCESS ==="
           Write-Host "IP Address: $env:TS_IP"
-          Write-Host "Username : $env:RDP_USER"
-          Write-Host "Password : $env:RDP_PASS"
+          Write-Host "Username : mohmed"
+          Write-Host "Password : admin@123w"
           Write-Host "==================`n"
 
           while ($true) {
